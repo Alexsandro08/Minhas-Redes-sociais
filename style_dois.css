@@ -61,18 +61,3 @@ img{
 #hub:hover{
     background-color: #12b93c;
 }
-
-#tt{
-    width: 79vw;
-    text-align: center;
-    background-color: #58aee7;
-    color: white;
-    display: block;
-    text-decoration: none;
-    padding: 10px;
-    border-radius: 0px 0px 20px 20px;
-}
-
-#tt:hover{
-    background-color: #2496e2;
-}
