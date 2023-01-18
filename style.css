@@ -36,10 +36,33 @@ h1{
 #celular{
   
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 600px;
-    background: url(pacote-d013/imagens/android.png) no-repeat;
+    background: url(pacote-d013/imagens/smartphone-png.png) no-repeat;
 }
+#botoes{
+   text-align: center;
+}
+
+#botoes img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
+    box-sizing: border-box;
+}
+
+#botoes img:hover{
+    background-color:rgba(240, 248, 255, 0.288);
+    color:rgba(240, 248, 255, 0.322);
+    padding: 4px 6px;
+    transition: 0.3s;
+
+
+}
+
+
+

@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+
+
+*{
+    margin: 0px;
+    padding: 0px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+img{
+    width: 86vw;
+    border-radius: 20px 20px 30px 30px;
+    
+}
+#insta{
+    width: 79vw;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+    
+   
+}
+#insta:hover{
+ background-color: darkviolet;
+}
+
+#linkedin{
+    width: 79vw;
+    text-align: center;
+    background-color: #0a66c2;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#linkedin:hover{
+    background-color: #0a26c2;
+}
+
+#hub{
+    width: 79vw;
+    text-align: center;
+    background-color: #159234;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#hub:hover{
+    background-color: #12b93c;
+}
+
+#tt{
+    width: 79vw;
+    text-align: center;
+    background-color: #58aee7;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#tt:hover{
+    background-color: #2496e2;
+}
