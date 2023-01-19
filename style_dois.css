@@ -16,7 +16,7 @@ img{
     border-radius: 20px 20px 30px 30px;
     
 }
-#insta{
+.insta{
     width: 79vw;
     text-align: center;
     background-color: blueviolet;
@@ -28,11 +28,11 @@ img{
     
    
 }
-#insta:hover{
+.insta:hover{
  background-color: darkviolet;
 }
 
-#linkedin{
+.linkedin{
     width: 79vw;
     text-align: center;
     background-color: #0a66c2;
@@ -43,11 +43,11 @@ img{
     border-radius: 0px 0px 20px 20px;
 }
 
-#linkedin:hover{
+.linkedin:hover{
     background-color: #0a26c2;
 }
 
-#hub{
+.hub{
     width: 79vw;
     text-align: center;
     background-color: #159234;
@@ -58,6 +58,6 @@ img{
     border-radius: 0px 0px 20px 20px;
 }
 
-#hub:hover{
+.hub:hover{
     background-color: #12b93c;
 }
